@@ -17,7 +17,7 @@ A fantasy RPG creature search application that fetches data from the freeCodeCam
 
 ## ✨ Live Demo
 
-🌐 **[View Live Demo](https://your-live-demo-link.com)** *(Update after deployment)*
+🌐 **[View RPG Creature Search App](https://rpg-creature-search-app-shibam.vercel.app)**
 
 ## 🚀 Key Features
 
